@@ -8,15 +8,18 @@ An input string is valid if:
 
 Example 1:
 
-> _Input: s = "()"_ > _Output: true_
+> _Input: s = "()"_ 
+> _Output: true_
 
 Example 2:
 
-> _Input: s = "()[]{}"_ > _Output: true_
+> _Input: s = "()[]{}"_
+> _Output: true_
 
 Example 3:
 
-> _Input: s = "(]"_ > _Output: false_
+> _Input: s = "(]"_
+> _Output: false_
 
 Constraints:
 
